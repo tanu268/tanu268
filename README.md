@@ -5,6 +5,13 @@
   <em>📍 Jabalpur, India &nbsp;·&nbsp; 📫 tnamdeo09@gmail.com</em>
 </p>
 
+
+## 📊 GitHub 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tanu268&color=7c3aed&style=flat-square&label=profile+views" alt="Profile views"/>
+</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/tanu-namdeo-b8286a2a1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -83,19 +90,4 @@ An **asteroid impact visualization platform** utilizing NASA data datasets to tr
 
 ---
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanu268&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Tanu's GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanu268&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanu268&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<br/>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanu268&color=7c3aed&style=flat-square&label=profile+views" alt="Profile views"/>
-</p>
